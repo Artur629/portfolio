@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&display=swap");
+body {
+  background-color: #0a3341;
+}
+* {
+  font-family: "Montserrat", sans-serif;
+  color: #e0e2db;
+}
+.nav {
+  font-size: 20px;
+}
+.nav-link {
+  color: #ff4838;
+}
+a.skip-link:hover {
+  color: #c61100;
+}
+
+.active {
+  color: #c61100;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+}
+.card {
+  background-color: #ff4838;
+  margin-top: 20px;
+}
+img {
+  max-width: 95%;
+  margin: 10px;
+}
+.btn {
+  margin: 10px;
+  border: 2px solid #ffffff;
+}
+.btn-default {
+  font-weight: bold;
+  background-color: none;
+  border-radius: 30px;
+
+  color: #ffffff;
+}
+#footer {
+  background-color: #ff4838;
+}
+a {
+  text-decoration: none;
+  color: #e0e2db;
+}
+#copyright {
+  background-color: #c61100;
+}

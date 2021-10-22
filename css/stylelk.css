@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+  color: #e0e2db;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url("/img/bg_lktree1.png");
+  background-color: #030324;
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  max-width: 120px;
+  margin: auto;
+  border-radius: 50%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(2, 9, 56);
+  padding: 20px;
+  display: block;
+  background-color: rgb(255, 255, 255, 0.6);
+  width: 100%;
+  margin: 25px auto;
+  border-radius: 25px;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0px 25px 0px;
+  text-align: center;
+  color: #ffffff;
+}
